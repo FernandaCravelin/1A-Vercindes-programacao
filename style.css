@@ -6,3 +6,17 @@ h1{
     font-size: 40%;
     text-align: center;
 }
+
+p{
+    color: black;
+    text-align: center;
+    font-size: 40%;
+}
+.itens{
+    font-style: italic;
+    text-align: left;
+}
+
+.beneficios{
+    background-color: white;
+}
