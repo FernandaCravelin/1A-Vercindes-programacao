@@ -24,3 +24,9 @@ p{
     width: 100%;
     height: 30%;
 }
+ul{
+display: inline-block;
+vertical-align: top;
+margin: 3%;
+list-style: circle;
+}
